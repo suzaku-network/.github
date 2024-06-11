@@ -1,5 +1,7 @@
 # Suzaku
 
-Restaking for sovereign networks. Powered by [Avalanche](https://www.avax.network/).
+![Suzaku banner](/assets/color-banner-01.png)
 
-<sub>Built by [E36 Knots](https://github.com/e36knots)</sub>
+Restaking for sovereign networks. Leveraging the [Avalanche](https://www.avax.network/) stack.
+
+<sub>Built by the [Ash Team](https://ash.center)</sub>
