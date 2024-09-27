@@ -1,7 +1,7 @@
 # Suzaku
 
-![Suzaku banner](/assets/color-banner-01.png)
+![Suzaku banner](/assets/banner-color-01.png)
 
-Restaking for sovereign networks. Leveraging the [Avalanche](https://www.avax.network/) stack.
+The (re)staking for sovereign networks. Leveraging the [Avalanche](https://www.avax.network/) stack.
 
 <sub>Built by the [Ash Team](https://ash.center)</sub>
